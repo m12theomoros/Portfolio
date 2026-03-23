@@ -1,0 +1,4 @@
+<svg role="img" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="64" cy="64" r="64" fill="black"></circle>
+  <path d="M28 96V32h8l44 56V32h8v64h-8L36 40v56z" fill="white"></path>
+</svg>
